@@ -11,3 +11,4 @@
 - HTML
 - CSS [style/Presentation]
 - Javascript [Logic/Working of calculator]
+- This was the readme
